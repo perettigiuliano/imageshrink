@@ -30,7 +30,7 @@ function createAboutWindow() {
     y: 0,
     title: "About ImageShrink",
     width: 300,
-    height: 300,
+    height: 400,
     icon: "./assets/icons/Icon_256x256.png",
     resizable: false,
     backgroundColor: "white"
